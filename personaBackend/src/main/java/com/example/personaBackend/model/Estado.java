@@ -15,6 +15,10 @@ public class Estado {
     private Pais pais;
     private String nombre;
 
+    /* Constructor vacío */
+    public Estado() {
+    }
+
     public Estado(Pais pais, String nombre) {
         super();
         this.pais = pais;

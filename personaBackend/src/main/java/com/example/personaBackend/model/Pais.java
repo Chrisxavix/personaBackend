@@ -15,6 +15,10 @@ public class Pais {
     private Long id;
     private String nombre;
 
+    /* Constructor vacío */
+    public Pais() {
+    }
+
     public Pais(String nombre) {
         super();
         this.nombre = nombre;
