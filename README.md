@@ -3,7 +3,9 @@
 Tecnologías: 
   * Java
   * JPA
-  * PostgreSQL 
+  * PostgreSQL
+  * Postman
+  * Configuración de CORS
 
 # API REST para crear usuarios, eliminar, editar
 Post
